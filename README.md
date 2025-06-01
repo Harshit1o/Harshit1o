@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-8d34-622f-a6d5-abae50239a05/raw?se=2025-06-01T03%3A46%3A14Z&sp=r&sv=2024-08-04&sr=b&scid=c23229f8-16f3-5899-80da-19777a586fb0&skoid=71e8fa5c-90a9-4c17-827b-14c3005164d6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-31T22%3A37%3A55Z&ske=2025-06-01T22%3A37%3A55Z&sks=b&skv=2024-08-04&sig=vquzPoCEp1dDd5vfZUAYEcQPpWioprMY0ChWSg1CV%2BY%3D" width="300" />
+</p>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Harshit Chatterjee!
 </h1>
+
 <h3 align="center">🚀 CSE undergrad | DevOps Enthusiast | Full-Stack Developer | Linux Fan 😎</h3>
 
 <p align="center">
@@ -74,4 +79,3 @@
 ---
 
 > 🧠 *“Build. Break. Learn. Repeat.” – Harshit 🚀*
-
