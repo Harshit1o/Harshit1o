@@ -69,12 +69,12 @@
 
 ---
 
-### 🏆 Achievements & Stats
+### 🏆 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshit1o&label=Profile+views&color=brightgreen" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshit1o&theme=algolia&no-bg=true&no-frame=true&margin-w=10" />
 </p>
+
 
 ---
 
