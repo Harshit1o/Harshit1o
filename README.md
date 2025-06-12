@@ -59,10 +59,10 @@
 ### 📺 Content & Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshit-chatterjee">
+  <a href="https://www.linkedin.com/in/harshit-chatterjee" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://harshitchatterjee.site/">
+  <a href="https://harshitchatterjee.site/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
